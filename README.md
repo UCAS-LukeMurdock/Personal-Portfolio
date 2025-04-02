@@ -12,6 +12,7 @@ Not used for this class
 ## Execution and Usage
 ---
 To use this program, just type the number that corresponds to the program you want to run, then you will see a description of it and its creation, where you can decide if you want to run the program or not. If you decide to use the program, you will run it until it is done, and then you can choose another one or exit this Portfolio.
+
 ![image](image.png)  
 
 ## Used Technologies
@@ -23,7 +24,9 @@ To use this program, just type the number that corresponds to the program you wa
 + Pandas
 `pip install pandas`
 + Faker
-`pip install Faker`  
+`pip install Faker`
++ Pygame
+`pip install pygame`  
 
 ## Current Features
 ---
