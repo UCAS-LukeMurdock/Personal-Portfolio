@@ -1,0 +1,10 @@
+Name,Class,Level,Health,Strength,Defense,Speed,Money,Potion,Sword,Equipped
+Mommeo,Mage,0,5,4,7,3,100,Protect,no,no
+Luke,Mage,2,8,3,4,6,103,Poison,no,no
+The Knight,Knight,21,10,10,10,10,1027,none,yes,yes
+ez,Ranger,2,4,6,3,8,2,Freeze,no,no
+juan,Ranger,0,4,7,1,7,0,none,no,no
+Randy Williams,Basic Human,0,9,3,3,1,0,none,no,no
+Jordan Green,Ranger,0,4,7,2,3,0,none,no,no
+John Turner,Basic Human,0,6,3,6,1,0,none,no,no
+Christopher Martinez,Basic Human,0,5,1,2,8,0,none,no,no
